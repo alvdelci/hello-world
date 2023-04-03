@@ -1,2 +1,2 @@
-# first-repo-cubos
-Primeiro repositorio DDS
+# hello-world
+Primeira atividade Cubos Academy
